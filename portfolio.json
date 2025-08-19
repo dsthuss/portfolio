@@ -1,0 +1,24 @@
+{
+  "name": "Hussein",
+  "title": "Flutter Developer",
+  "about": "خبرة في بناء تطبيقات الموبايل باستخدام Flutter",
+  "projects": [
+    {
+      "title": "Todo App",
+      "description": "تطبيق لإدارة المهام",
+      "link": "https://github.com/username/todo-app"
+    },
+    {
+      "title": "Portfolio App",
+      "description": "بورتفوليو شخصي",
+      "link": "https://github.com/username/portfolio"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Company A",
+      "role": "Mobile Developer",
+      "years": "2021 - 2022"
+    }
+  ]
+}
