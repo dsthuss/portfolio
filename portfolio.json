@@ -129,100 +129,84 @@
     {
       "name": "JavaScript",
       "nameAr": "جافا سكريبت",
-      "progress": 0.85,
-      "iconPath": null
+      "progress": 0.85
     },
     {
       "name": "TypeScript",
       "nameAr": "تايب سكريبت",
-      "progress": 0.80,
-      "iconPath": null
+      "progress": 0.80
     },
     {
       "name": "Java",
       "nameAr": "جافا",
-      "progress": 0.90,
-      "iconPath": null
+      "progress": 0.90
     },
     {
       "name": "Python",
       "nameAr": "بايثون",
-      "progress": 0.75,
-      "iconPath": null
+      "progress": 0.75
     },
     {
       "name": "C++",
       "nameAr": "سي بلس بلس",
-      "progress": 0.70,
-      "iconPath": null
+      "progress": 0.70
     },
     {
       "name": "Dart",
       "nameAr": "دارت",
-      "progress": 0.85,
-      "iconPath": null
+      "progress": 0.85
     },
     {
       "name": "Flutter",
       "nameAr": "فلاتر",
-      "progress": 0.90,
-      "iconPath": null
+      "progress": 0.90
     },
     {
       "name": "React",
       "nameAr": "رياكت",
-      "progress": 0.80,
-      "iconPath": null
+      "progress": 0.80
     }
   ],
   "softwareSkills": [
     {
       "name": "JavaScript",
       "nameAr": "جافا سكريبت",
-      "progress": 0.85,
-      "iconPath": null
+      "progress": 0.85
     },
     {
       "name": "TypeScript",
       "nameAr": "تايب سكريبت",
-      "progress": 0.80,
-      "iconPath": null
+      "progress": 0.80
     },
     {
       "name": "Java",
       "nameAr": "جافا",
-      "progress": 0.90,
-      "iconPath": null
+      "progress": 0.90
     },
     {
       "name": "Python",
       "nameAr": "بايثون",
-      "progress": 0.75,
-      "iconPath": null
+      "progress": 0.75
     },
     {
       "name": "C++",
       "nameAr": "سي بلس بلس",
-      "progress": 0.70,
-      "iconPath": null
+      "progress": 0.70
     },
     {
       "name": "Dart",
       "nameAr": "دارت",
-      "progress": 0.85,
-      "iconPath": null
+      "progress": 0.85
     },
     {
       "name": "Flutter",
       "nameAr": "فلاتر",
-      "progress": 0.90,
-      "iconPath": null
+      "progress": 0.90
     },
     {
       "name": "React",
       "nameAr": "رياكت",
-      "progress": 0.80,
-      "iconPath": null
+      "progress": 0.80
     }
   ],
   "services": [
@@ -230,43 +214,37 @@
       "title": "Mobile App Development",
       "titleAr": "تطوير تطبيقات الهاتف المحمول",
       "description": "Professional mobile application development for iOS and Android using Flutter framework with modern UI/UX design.",
-      "descriptionAr": "تطوير احترافي لتطبيقات الهاتف المحمول لنظامي iOS وAndroid باستخدام إطار عمل فلاتر مع تصميم حديث لواجهة المستخدم.",
-      "iconPath": null
+      "descriptionAr": "تطوير احترافي لتطبيقات الهاتف المحمول لنظامي iOS وAndroid باستخدام إطار عمل فلاتر مع تصميم حديث لواجهة المستخدم."
     },
     {
       "title": "Web Development",
       "titleAr": "تطوير المواقع الإلكترونية",
       "description": "Full-stack web development using modern technologies like React, Node.js, and cloud services for scalable solutions.",
-      "descriptionAr": "تطوير ويب كامل المكدس باستخدام تقنيات حديثة مثل React وNode.js وخدمات السحابة للحلول القابلة للتوسع.",
-      "iconPath": null
+      "descriptionAr": "تطوير ويب كامل المكدس باستخدام تقنيات حديثة مثل React وNode.js وخدمات السحابة للحلول القابلة للتوسع."
     },
     {
       "title": "UI/UX Design",
       "titleAr": "تصميم واجهة المستخدم",
       "description": "Creative and intuitive user interface design with focus on user experience and modern design principles.",
-      "descriptionAr": "تصميم واجهة مستخدم إبداعية وبديهية مع التركيز على تجربة المستخدم ومبادئ التصميم الحديثة.",
-      "iconPath": null
+      "descriptionAr": "تصميم واجهة مستخدم إبداعية وبديهية مع التركيز على تجربة المستخدم ومبادئ التصميم الحديثة."
     },
     {
       "title": "API Development",
       "titleAr": "تطوير واجهات برمجة التطبيقات",
       "description": "RESTful API development with proper documentation, authentication, and integration support for various platforms.",
-      "descriptionAr": "تطوير واجهات برمجة تطبيقات RESTful مع توثيق مناسب ومصادقة ودعم التكامل لمنصات مختلفة.",
-      "iconPath": null
+      "descriptionAr": "تطوير واجهات برمجة تطبيقات RESTful مع توثيق مناسب ومصادقة ودعم التكامل لمنصات مختلفة."
     },
     {
       "title": "Database Design",
       "titleAr": "تصميم قواعد البيانات",
       "description": "Efficient database design and optimization for both SQL and NoSQL databases with data modeling expertise.",
-      "descriptionAr": "تصميم وتحسين قواعد البيانات بكفاءة لكل من قواعد البيانات SQL وNoSQL مع خبرة في نمذجة البيانات.",
-      "iconPath": null
+      "descriptionAr": "تصميم وتحسين قواعد البيانات بكفاءة لكل من قواعد البيانات SQL وNoSQL مع خبرة في نمذجة البيانات."
     },
     {
       "title": "DevOps & CI/CD",
       "titleAr": "DevOps وخطوط التكامل المستمر",
       "description": "Implementation of CI/CD pipelines, containerization with Docker, and cloud deployment strategies.",
-      "descriptionAr": "تنفيذ خطوط CI/CD والحاويات باستخدام Docker واستراتيجيات النشر السحابي.",
-      "iconPath": null
+      "descriptionAr": "تنفيذ خطوط CI/CD والحاويات باستخدام Docker واستراتيجيات النشر السحابي."
     }
   ]
 }
