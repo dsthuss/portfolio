@@ -20,6 +20,29 @@
     "createdByAr": "حسين شامخ",
     "copyright": "Copyright 2025",
     "copyrightAr": "جميع الحقوق محفوظة 2025",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "languagesAr": [
+      "العربية",
+      "الانكليزية"
+    ],
+    "technicalSkills": [
+      "Firebase Administration",
+      "Firebase Administration",
+      "Firebase Administration",
+      "Firebase Administration",
+      "Firebase Middleware"
+    ],
+    "technicalSkillsAr": [
+      "إدارة Firebase",
+      "إدارة Firebase",
+      "إدارة Firebase",
+      "إدارة Firebase",
+      "مصادقة Firebase"
+    ],
+  
     "socialLinks": {
       "github": "https://github.com/dsthuss",
       "linkedin": "https://linkedin.com/in/hussein-shamikh",
@@ -102,7 +125,57 @@
       "technologies": ["Flutter", "Dart", "OpenWeather API", "Geolocation", "Provider"]
     }
   ],
-  "skills": [
+  "programmingSkills": [
+    {
+      "name": "JavaScript",
+      "nameAr": "جافا سكريبت",
+      "progress": 0.85,
+      "iconPath": null
+    },
+    {
+      "name": "TypeScript",
+      "nameAr": "تايب سكريبت",
+      "progress": 0.80,
+      "iconPath": null
+    },
+    {
+      "name": "Java",
+      "nameAr": "جافا",
+      "progress": 0.90,
+      "iconPath": null
+    },
+    {
+      "name": "Python",
+      "nameAr": "بايثون",
+      "progress": 0.75,
+      "iconPath": null
+    },
+    {
+      "name": "C++",
+      "nameAr": "سي بلس بلس",
+      "progress": 0.70,
+      "iconPath": null
+    },
+    {
+      "name": "Dart",
+      "nameAr": "دارت",
+      "progress": 0.85,
+      "iconPath": null
+    },
+    {
+      "name": "Flutter",
+      "nameAr": "فلاتر",
+      "progress": 0.90,
+      "iconPath": null
+    },
+    {
+      "name": "React",
+      "nameAr": "رياكت",
+      "progress": 0.80,
+      "iconPath": null
+    }
+  ],
+  "softwareSkills": [
     {
       "name": "JavaScript",
       "nameAr": "جافا سكريبت",
