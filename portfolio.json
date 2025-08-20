@@ -1,4 +1,25 @@
 {
+  "profile": {
+    "name": "Hussein Shamikh",
+    "nameAr": "حسين شمخ",
+    "title": "Full Stack Developer & Mobile App Developer",
+    "titleAr": "مطور ويب كامل المكدس ومطور تطبيقات الهاتف المحمول",
+    "aboutMe": "Passionate and experienced developer with expertise in Flutter, React, and modern web technologies. I love creating innovative solutions and turning ideas into reality through clean, efficient code.",
+    "aboutMeAr": "مطور شغوف وذو خبرة في فلاتر ورياكت والتقنيات الحديثة للويب. أحب إنشاء حلول مبتكرة وتحويل الأفكار إلى واقع من خلال كود نظيف وفعال.",
+    "imageUrl": null,
+    "cvUrl": null,
+    "phone": "+9647812019100",
+    "email": "enghusali97@gmail.com",
+    "location": "Iraq",
+    "locationAr": "العراق",
+    "socialLinks": {
+      "github": "https://github.com/dsthuss",
+      "linkedin": "https://linkedin.com/in/hussein-shamikh",
+      "youtube": "https://youtube.com/@hussein-shamikh",
+      "instagram": "https://instagram.com/hussein.shamikh",
+      "twitter": "https://twitter.com/hussein_shamikh"
+    }
+  },
   "experiences": [
     {
       "title": "Senior Flutter Developer",
