@@ -1,24 +1,170 @@
 {
-  "name": "Hussein",
-  "title": "Flutter Developer",
-  "about": "خبرة في بناء تطبيقات الموبايل باستخدام Flutter",
-  "projects": [
+  "experiences": [
     {
-      "title": "Todo App",
-      "description": "تطبيق لإدارة المهام",
-      "link": "https://github.com/username/todo-app"
+      "title": "Senior Flutter Developer",
+      "titleAr": "مطور فلاتر متقدم",
+      "company": "Tech Solutions Company",
+      "companyAr": "شركة الحلول التقنية",
+      "duration": "2022 - Present",
+      "durationAr": "2022 - الحالي",
+      "features": [
+        "Developed cross-platform mobile applications using Flutter",
+        "Led a team of 5 developers",
+        "Implemented CI/CD pipelines",
+        "Optimized app performance and reduced crash rate by 40%"
+      ],
+      "featuresAr": [
+        "تطوير تطبيقات الهاتف المحمول متعددة المنصات باستخدام فلاتر",
+        "قيادة فريق من 5 مطورين",
+        "تنفيذ خطوط CI/CD",
+        "تحسين أداء التطبيق وتقليل معدل التعطل بنسبة 40%"
+      ]
     },
     {
-      "title": "Portfolio App",
-      "description": "بورتفوليو شخصي",
-      "link": "https://github.com/username/portfolio"
+      "title": "Mobile App Developer",
+      "titleAr": "مطور تطبيقات الهاتف المحمول",
+      "company": "Digital Innovations",
+      "companyAr": "الابتكارات الرقمية",
+      "duration": "2020 - 2022",
+      "durationAr": "2020 - 2022",
+      "features": [
+        "Built 10+ mobile applications",
+        "Integrated third-party APIs",
+        "Implemented push notifications",
+        "Collaborated with UI/UX designers"
+      ],
+      "featuresAr": [
+        "بناء أكثر من 10 تطبيقات للهاتف المحمول",
+        "دمج واجهات برمجة التطبيقات الخارجية",
+        "تنفيذ الإشعارات الفورية",
+        "التعاون مع مصممي واجهة المستخدم"
+      ]
     }
   ],
-  "experience": [
+  "projects": [
     {
-      "company": "Company A",
-      "role": "Mobile Developer",
-      "years": "2021 - 2022"
+      "title": "E-Commerce Mobile App",
+      "titleAr": "تطبيق التجارة الإلكترونية",
+      "description": "A comprehensive e-commerce mobile application with payment integration, user management, and real-time inventory tracking.",
+      "descriptionAr": "تطبيق شامل للتجارة الإلكترونية مع دمج المدفوعات وإدارة المستخدمين وتتبع المخزون في الوقت الفعلي.",
+      "imageUrl": null,
+      "liveUrl": "https://play.google.com/store/apps/details?id=com.example.ecommerce",
+      "githubUrl": "https://github.com/username/ecommerce-app",
+      "technologies": ["Flutter", "Dart", "Firebase", "Stripe API", "Provider"]
+    },
+    {
+      "title": "Task Management System",
+      "titleAr": "نظام إدارة المهام",
+      "description": "A collaborative task management application with real-time updates, team collaboration, and progress tracking.",
+      "descriptionAr": "تطبيق تعاوني لإدارة المهام مع التحديثات في الوقت الفعلي والتعاون الجماعي وتتبع التقدم.",
+      "imageUrl": null,
+      "liveUrl": "https://task-management.web.app",
+      "githubUrl": "https://github.com/username/task-management",
+      "technologies": ["Flutter", "Dart", "Firebase", "Bloc", "WebRTC"]
+    },
+    {
+      "title": "Weather Forecast App",
+      "titleAr": "تطبيق توقعات الطقس",
+      "description": "A beautiful weather application with location-based forecasts, hourly updates, and weather alerts.",
+      "descriptionAr": "تطبيق طقس جميل مع توقعات قائمة على الموقع وتحديثات كل ساعة وتنبيهات الطقس.",
+      "imageUrl": null,
+      "liveUrl": "https://weather-forecast.web.app",
+      "githubUrl": "https://github.com/username/weather-app",
+      "technologies": ["Flutter", "Dart", "OpenWeather API", "Geolocation", "Provider"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "nameAr": "جافا سكريبت",
+      "progress": 0.85,
+      "iconPath": null
+    },
+    {
+      "name": "TypeScript",
+      "nameAr": "تايب سكريبت",
+      "progress": 0.80,
+      "iconPath": null
+    },
+    {
+      "name": "Java",
+      "nameAr": "جافا",
+      "progress": 0.90,
+      "iconPath": null
+    },
+    {
+      "name": "Python",
+      "nameAr": "بايثون",
+      "progress": 0.75,
+      "iconPath": null
+    },
+    {
+      "name": "C++",
+      "nameAr": "سي بلس بلس",
+      "progress": 0.70,
+      "iconPath": null
+    },
+    {
+      "name": "Dart",
+      "nameAr": "دارت",
+      "progress": 0.85,
+      "iconPath": null
+    },
+    {
+      "name": "Flutter",
+      "nameAr": "فلاتر",
+      "progress": 0.90,
+      "iconPath": null
+    },
+    {
+      "name": "React",
+      "nameAr": "رياكت",
+      "progress": 0.80,
+      "iconPath": null
+    }
+  ],
+  "services": [
+    {
+      "title": "Mobile App Development",
+      "titleAr": "تطوير تطبيقات الهاتف المحمول",
+      "description": "Professional mobile application development for iOS and Android using Flutter framework with modern UI/UX design.",
+      "descriptionAr": "تطوير احترافي لتطبيقات الهاتف المحمول لنظامي iOS وAndroid باستخدام إطار عمل فلاتر مع تصميم حديث لواجهة المستخدم.",
+      "iconPath": null
+    },
+    {
+      "title": "Web Development",
+      "titleAr": "تطوير المواقع الإلكترونية",
+      "description": "Full-stack web development using modern technologies like React, Node.js, and cloud services for scalable solutions.",
+      "descriptionAr": "تطوير ويب كامل المكدس باستخدام تقنيات حديثة مثل React وNode.js وخدمات السحابة للحلول القابلة للتوسع.",
+      "iconPath": null
+    },
+    {
+      "title": "UI/UX Design",
+      "titleAr": "تصميم واجهة المستخدم",
+      "description": "Creative and intuitive user interface design with focus on user experience and modern design principles.",
+      "descriptionAr": "تصميم واجهة مستخدم إبداعية وبديهية مع التركيز على تجربة المستخدم ومبادئ التصميم الحديثة.",
+      "iconPath": null
+    },
+    {
+      "title": "API Development",
+      "titleAr": "تطوير واجهات برمجة التطبيقات",
+      "description": "RESTful API development with proper documentation, authentication, and integration support for various platforms.",
+      "descriptionAr": "تطوير واجهات برمجة تطبيقات RESTful مع توثيق مناسب ومصادقة ودعم التكامل لمنصات مختلفة.",
+      "iconPath": null
+    },
+    {
+      "title": "Database Design",
+      "titleAr": "تصميم قواعد البيانات",
+      "description": "Efficient database design and optimization for both SQL and NoSQL databases with data modeling expertise.",
+      "descriptionAr": "تصميم وتحسين قواعد البيانات بكفاءة لكل من قواعد البيانات SQL وNoSQL مع خبرة في نمذجة البيانات.",
+      "iconPath": null
+    },
+    {
+      "title": "DevOps & CI/CD",
+      "titleAr": "DevOps وخطوط التكامل المستمر",
+      "description": "Implementation of CI/CD pipelines, containerization with Docker, and cloud deployment strategies.",
+      "descriptionAr": "تنفيذ خطوط CI/CD والحاويات باستخدام Docker واستراتيجيات النشر السحابي.",
+      "iconPath": null
     }
   ]
 }
