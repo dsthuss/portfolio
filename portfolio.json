@@ -12,6 +12,10 @@
     "email": "enghusali97@gmail.com",
     "location": "Iraq",
     "locationAr": "العراق",
+    "contactTitle": "getInTouch",
+    "contactTitleAr" :"اتصل بي',
+    "contactDescription":"Feel free to reach out to me for any project collaborations or inquiries.",
+    "contactDescriptionAr":"يمكنك الاتصال بي لأي مشروع أو إستفسار",
     "socialLinks": {
       "github": "https://github.com/dsthuss",
       "linkedin": "https://linkedin.com/in/hussein-shamikh",
